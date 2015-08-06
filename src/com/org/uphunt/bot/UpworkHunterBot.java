@@ -281,6 +281,13 @@ public class UpworkHunterBot {
 						update_work_doc_single(cats_choosen.get(i));
 					break;
 				case HUNT_BROWSE: 
+					// Enough browsing dude, now you're going to fetch the new jobs
+					if(last_page_read>=MAX_PAGE_ABSOLUTE){
+						huntMode = HuntMode.HUNT_NEW;
+						UPDATE_INTERVAL = UPDATE_INTERVAL_NEW;
+						break;
+					}
+					
 					// Update all categories and a couple pages counting from the last search done
 					for(int i=0;i<cats_choosen.size();i++)
 						for(int page=last_page_read; page<last_page_read+MAX_PAGECOUNT; page++)
@@ -288,11 +295,6 @@ public class UpworkHunterBot {
 					
 					last_page_read += MAX_PAGECOUNT;
 					
-					// Enough browsing dude, now you're going to fetch the new jobs
-					if(last_page_read>MAX_PAGE_ABSOLUTE){
-						huntMode = HuntMode.HUNT_NEW;
-						UPDATE_INTERVAL = UPDATE_INTERVAL_NEW;
-					}
 					break;
 				}
 				
