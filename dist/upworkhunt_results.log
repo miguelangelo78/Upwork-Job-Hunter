@@ -1,0 +1,616 @@
+************
+- Job title: Test functionality and commenting of code for a website.
+- Description: We have purchased auction software and for the past year have customized it to meet our needs. The software and coding is in PHP. We need a QA of the functionality of the customizations and the commenting of the code. Code quality issues should also be addressed. Bug tracking software such as Mantis, would be required. I will provide you a list of the customizations and any other relevant information. We need you to work with our current developer to resolve all issues and prepare our website for launch. This may require some beta testing of the site. Please reply with the number #18 in the post so I know you are not a bot. Should have experience with AWS, jquery, and all that good stuff. Thanks!
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 1,000
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~015c8a07cec75ffc2c/
+************
+************
+- Job title: Twilio API in PHP Expert
+- Description: We are looking for an expert in Twilio API in PHP who ill help us work with existing code and work on optimizations we need. Note: Our software is a mass texting software as well. We have some features integrated with twilio and are only to read customer history and also to setup proper greeting messages on the phone numbers our customers buy through us. Here is a sample of some of what we will be changing and updating on out current code: 1) 2nd carrier lookup for problem addresses. Use a REST call to Twilio for carrier lookup on phone numbers 2) Setup purchasing of numbers from Twilio 3) "bounce-back emails: store separately (php work only). We send some texts as emails so we need to setup bounce processing. 4) Some small optimization to our Stripe.com email receipts (using Stripe API) 5) Server optimization: OS tweaks for performance 6) short codes provisioning and handling (larger job) using CRMTextAPI and Twilio Qualifications: - We need advanced Php...
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 month, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~0127b3d6a8052df8b2/
+************
+************
+- Job title: Magento Expert to set up Multi Lingual Site , upload content , products in bulk etc.
+- Description: Looking for a experienced magento developer who can help create a magento site from an exsisting website. The site needs to be set up for both english and hebrew in the front end. Developer needs to have experience uploading Setting up multilingual site. Uploading Products in bulk (Its about 500 products) Uploading Images in Bulk Developer needs to be available to work for the next two - three weeks. Urgent project.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 500
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01e85d1bdc9e0b94a4/
+************
+************
+- Job title: API Creation and Integration
+- Description: Build an API to use orders/payments in Square to create registrations at GoToWebinar and leads on SharpSpring The attached document gives detailed specifications on what we need.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 500
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01738f834f554c6c6c/
+************
+************
+- Job title: API Expert - Script Modification
+- Description: I have a website script that needs modifying that is pulling data from the Moz API here https://moz.com/products/api. API Documentation: https://moz.com/help/guides/moz-api/mozscape I am hitting the API limit so some results are not being retrieved. I need the script modifying so I don't hit the API limit. You MUST have experience in working with API's.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 50
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~016df04f4db5eb1861/
+************
+************
+- Job title: Lead Inseration Script
+- Description: Hey, I need a script that I will upload a csv file with Name/Email/Phone and it will send the details via API I will provide. I will have an option to set the timing the leads will be insert. for example if I want to insert 100 leads in 10 hours, the insertion time will be on random, so it will simulate a random behavior of lead generation by visitors. Thanks,
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 35
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~0121a17fe7870f53c0/
+************
+************
+- Job title: Save YouTube video frame as jpeg on my server
+- Description: I want a user to be able to take an embedded YouTube video that is on my webpage and select and save a single frame from that video as a jpeg file to my server. I'm open to different ways of accomplishing this task. I have FFMPEG all ready installed on my server. I would prefer if the task was completed with some combination of PHP or PHP/javascript. If you would like the job please reply with how you plan on accomplishing this task and how long it should take you to complete. Thanks! Steve
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, 10-30 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01aea41cab088436e4/
+************
+************
+- Job title: Campaign Monitor API with PhP Expert
+- Description: This is to perform miscellaneous integration work such as: dynamic campaign creation, dynamic creation of lists, dynamic upload of contacts, and to send a campaign and then to dynamically query stats of the campaign to display them on a front end. So we are trying our best not to open the actual campaign monitor site and just use the API to execute all functions. We already started the integration so we only need to "fix" certain issues but most of the code is done so this will not be from scratch. Qualifications: Must have done more than 2 projects with this... need experience here Skills: php, mysql, campaign monitor API
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01550f8ac6ee82b40e/
+************
+************
+- Job title: MySQL/ Backend Developer
+- Description: Looking to hire an experienced person to complete MySQL/back end programming for a new database system. Strength in MySQL. Strength in database structure is also required. this is full time position.. working during our work hours of 7 am to 5 pm est..
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: 1 to 3 months, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~0126c477a14c2cf0c5/
+************
+************
+- Job title: Malware Scanner
+- Description: I want to create a Malware Scanner/Service that integrates with a web hosting company's internal systems (WHMCS, HostBill etc). The web host would be able to upsell the Malware scanner as an add-on or include it with all plans or selected premium plans. The software contains the following parts: 1) Build a centralized database of malware definitions from opensource locations. 2) Build an API to expose the definitions as rules. 3) Build a web crawler that will do the scanning. 4) Build a WHMCS plugin that will power the web service for clients. 5) API Management and integration with 3scale.com. 6) SiteSeal connected to the API for clients to display. 7) A website for this service. Please see attached file for complete details. I will choose a developer that has spent more than 20 minutes thinking about this, provides a pricing scheme based on each section with timeline, has experience developing complex software with scalable APIs and provides some useful input or feedback to...
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 12,000
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~015f233a668207ac57/
+************
+************
+- Job title: Single PHP upload script (deadline today/tomorrow)
+- Description: I'm looking for someone who can make an uploadtool that uploads a PDF to Amazon S3 server and adds it to the database in the correct row. 2-3 hours work. This script can be used: https://github.com/tpyo/amazon-s3-php-class
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 20
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~0177b2f87055ab28e2/
+************
+************
+- Job title: Create Order Tracking Script Using Google, eBay and Bonanza API's
+- Description: This job is simple and straightforward for an expert API script writer. Develop a script that pulls data into a Google Drive Spreadsheet from eBay.com and Bonanza.com using each company's API. The data pulled in the Google Drive Spreadsheet must be as close to real time as possible. If possible, the spreadsheet should auto-update when certain actions are taken on eBay and Bonanza. For example, when I "Mark as Shipped" an item on either eBay or Bonanza spreadsheet will automatically update to show that item, "Mark as Shipped." I have more details on functionality and I will share them with you once hired.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 150
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01a243182a25439f7b/
+************
+************
+- Job title: Bitcoin exchange site (Developer)
+- Description: Hi, I am in search of someone who can develop a bitcoin exchange site, BITCOIN to EURO - EURO to BITCOIN. Main site: - Home page - Login page - Registration page - Set option in admin to allow registration or NOT! User Side: - User Announcements page - User registration Page (profile) - Users can deposit with Bitcoin (API based, deposited to users spesific address and credited to webpage) - Users purchase history page (view purchased items) - Users page for shopping ( will be displayed with the category list for buying items) ex. Selling a gift card. User can see the logo of the gift card, and value of the gift card, but to buy it it has to have positive balance and if not, to be redirect to the deposit page, when trying to buy with negative balance. If the balance is enough to buy the GC, then it should buy it and than redirected to the purchase history page where it will show the gift card information! Admin side: - Admin can add news to Announcements page -...
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 1,000
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01fd7755625d508dcf/
+************
+************
+- Job title: Error database showing in home
+- Description: I got several errors in home can you help me? need fixed it asap thanks
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 40
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~011c396a273de9b132/
+************
+************
+- Job title: API Configuration
+- Description: I have a Mobile & Website API that I need configured to reflect my brand. I request someone with knowledge and experience in API programming. Please do not respond if you have no prior experience.. I request all responders to share samples of work.. Thanks Coach
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 month, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~010dcc20fe7bcb1e45/
+************
+************
+- Job title: Install and configure 3 node Hadoop Cluster
+- Description: Hi, I am looking for hadoop admin/developer to build 3 node(1 - namenode & 2-datanode) physical Hadoop cluster on dell r200 machines. 2 of the servers have 8G and 1 have 4G memory. I will give you ssh access. You do need to document install process and also let me have details on how nodes should be backed up ,removed,added into cluster. I need following version(Mandatory) of hadoop with all stack components working. Debian Jessie/Ubuntu 12.04 LTS Hadoop 2.6.0 mysql Ver 14.14 PHP Java 1.7 Spark 1.3 Thanks
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 125
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~0176136b516f6994c8/
+************
+************
+- Job title: Setup a Web Crawler to crawl&index defined Websites
+- Description: Hello! We need a solution to crawl and index several defined Websites (around 500-1000 Domains with X Pages - for too big Sites we will defined "Areas" which are interesting). Aim: Something like Google Alerts with special Informations from a niche branch. ---- Currently we have Crawler Anywhere 4.0.0 (herein after CA) set up to crawl websites for us. Unfortunately one of our major requirements for a crawler is not working at all: crawling password protected sites. While CA supports several authentication methods (GET, POST, Basic), both GET and POST authentication methods are not working properly. For some reason the HttpLoader class can’t fetch any cookies. Executing manual POST and GET requests confirm that this is not an issue of the website we try to crawl but CA itself. Therefore we’re looking for someone to either a) provide us with information that lead to our goal of successfully crawling password protected websites using CA (maybe you’ve got experience using...
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 month, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01720468e321e79d2f/
+************
+************
+- Job title: Minor changes to website (PHP, HTML5, CSS3)
+- Description: My website is on HTML5, CSS3 and coded in PHP. I want following changes done. 1) My website has Forum functionality already there. I want following changes done to it. - Text Edit Tools (bold, underline, italic, strikeout, align left, align centre, bullet list, numbered list, Font size, text colour, background colour, Add Link, Add Image (Upload), Add Video (Embed or Upload) etc....) for both Posts and Comments - If URL is part of the Post or Comment, it should automatically turn it to a clickable URL - Smileys pack to made available for posts and comments (to choose smileys/emoticons) - Avatars pack to be made available during user registration or at Edit Profile page (there is already an option to upload a photo, which will stay) 2) Apart from the Forum functionality, Downloadable items are not correctly laid out currently. Text cells should be dynamic so that heights automatically get adjusted according to the size of the texts in it. Also width needs to be adjusted. 3)...
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 200
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~0157b55a2991f4d5b1/
+************
+************
+- Job title: Want to Complete Ongoing E-Commerce Website.
+- Description: Here is the brief introduction what project i want to do. You will have to code in Codeigniter Framework in php. You will get more work from me if this work stand to our coding standard. USER (FRONT END) Member’s Login and Registration • Login Details • Captcha Validation • Ajax Validation for email id • Activation link send to your mail id • Basic Details • Javascript Validation for Login fields Member’s Search Features • Search by Keyword • Search by Category • Search by Price Member’s Listing Show Case • Featured Products • Recently Added Member’s Profile Details • Country • City • Description about User • Email • Phone Number • Favorites Shopping Cart • You can buy more than one product using cart • Checkout Option User Access on Other Product • Add Favorite • Send Comment • Add your Rating • View Author Profile • Share a Product in Social media CMS • About • Trimmed Blog Show Case on Blog Home Page • Blog With Individual Title...
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 month, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~015a539fed53920db0/
+************
+************
+- Job title: Full-Time Programmer - Data Scraping & Visualization
+- Description: We are looking for a full-time programmer with the following skills. - Strong database concepts - Experience in python, ruby, php, and able to pick up new languages fast - Good understanding of HTML/XPath/JS This is for a project that requires data scraping, merging and visualization. The person is preferably in Chandigarh, India, or nearby, since we already have some people there. The person is fluent in English and uses skype to communicate. Please also specify what your full-time salary would be [vs. contract hours] for continued stable work and salary. Please specify in local currency.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: More than 6 months, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~012159daf888aa9bd9/
+************
+************
+- Job title: Test Automation Expert using Protractor,JavaScript,Webstorm for UI,Webservices automation and TDD
+- Description: We are looking for the below skills: Test Automation Expert using Protractor,JavaScript,Webstorm for UI,Webservices automation and TDD
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 300
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01385eb02747a69e85/
+************
+************
+- Job title: need a shopping cart website
+- Description: i want to create a shopping cart website which is based on java server pages and struts .i need a partner who can help me to create this .please anyone who interested contact to me.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: 1 to 3 months, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01e3ca23fa58507d9b/
+************
+************
+- Job title: Implement a .net interface for connecting to Google's Compute Engine API
+- Description: I will provide an interface that connects to Google's Compute Engine API client library for .net. The interface requires 3 main features to be implemented. Create Server, Get Servers, and Delete Server. You must also implement the OAuth 2.0 authorization so that these calls can be done. You should have experience using Google's .net client apis.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, 10-30 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~018fb3ff1cf79a1142/
+************
+************
+- Job title: Wowza Media Server Streaming Engine API stream monitor dashboard
+- Description: We require a stream monitor for Wowza Streaming Engine 4.x Need to be done with the help of Wowza API Basic requirements Monitoring: a. Stream Name b. Stream bitrate c. stream status (Bitrate less than 200Kb) d. Number of connections / Clients and IP addresses e. Stream statistics: Total: xx , online: xx , failed: xx Please do not bid if you are NOT familiar with Wowza API
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 750
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01a94c5ffd55931c70/
+************
+************
+- Job title: CSGO Gamble Website
+- Description: Hi i'm Danny and i am trying to make a csgo gambling website. I have all the PSD's done I just need someone to transfer it to HTML. There are a lot of specific things that need to be done so, I would like to talk to them on Skype. If you would like to do this for me please have a good understanding of English so that it is easier for the both of us. CONTACT: Skype: VastLAX EXAMPLE SITES! https://skinarena.com/ https://csgojackpot.com/
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 30
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01d87bd1fd31f10de6/
+************
+************
+- Job title: Need Bot to perform searches on Google and save Page 1 Results
+- Description: We have thousands of keywords that we manually need to search on Google to determine if our competition is on the first page of Google for that particular keyword. We would like software to be built where we can input our list of thousands of keywords. We should also be able to enter the URLs of our competition, ie. "bestbuy.com", "walmart.com", "sears.com", etc. and be able to change our competition websites at any time. The bot/program will then search Google for each of the keywords, one at a time. The software will then look at (or save) the URLs of the 10 results that are returned on page 1 (only the URLs of the organic listings should be captured). The output should spit out the number of "competition" websites that were displayed in the results. For example, if one of our keywords is "egg salad", our competition (Best Buy, Walmart, and Sears) do not show up in the first 10 results, so the output would be 0 for the keyword "egg salad". But if one of our keywords is "flat...
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 200
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~0191cce4e6820f9be3/
+************
+************
+- Job title: API Script & Develop
+- Description: I need someone to write a API script. We use a software called Service Monster wwwservicemonster.net We also use Nutshell CRM Here is the link to Service Monster API http://developer.servicemonster.net/ Nutshell API Link https://www.nutshell.com/api/ When a client is entered or any information on that client is updated on servicemonster I want it to update Nutshell CRM and Google Contacts
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 400
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01560e3ac8c49d6d92/
+************
+************
+- Job title: Opencart API plugin
+- Description: I want to build opencart extention to provide opencart API's to my mobile device. this will covers login/Registeration Products Categories sliders orders and more ---- there are some API already exsist in store .. we can start from there .. but i need something installable .. what i mean by that is when i upload the zip file .. everything should go smooth
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~0192b9fd642808143b/
+************
+************
+- Job title: Opencart plugin
+- Description: I want to build opencart extention to provide opencart API's to my mobile device. this will covers login/Registeration Products Categories sliders orders and more ---- there are some API already exsist in store .. we can start from there .. but i need something installable .. what i mean by that is when i upload the zip file .. everything should go smooth
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~019898b4e825a84917/
+************
+************
+- Job title: Rebuild SQL Database from FRM and IBD files (innodb?)
+- Description: Hi There, I had a site pretty much built on wamp and something went bad on my PC and wamp won't work All I have is a folder full of IBD and FRM files from wamps data bin folder Can anyone help me to rebuild the database properly so I can import to cpanel/phpmyadmin? Please let me know a price and turnaround time
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 100
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01b69512b5aa01122b/
+************
+************
+- Job title: Convert a C or (C++) (both codes provided and DELPHI ready lib) to delphi - about 300 lines
+- Description: The goal of the project is to convert a c++ (or c) project into delphi Source code can be found on : http://netfiltersdk.com/download/nfsdk/demo/nfsdk-demo-pf.zip the project is; PFHttpBlocker in /samples/ and has like 300 lines of codes. there is a C++ version and a C version. Note that these libraries are DELPHI "ready" and they contain some DELPHI demos, except the one I need.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 300
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01703246d0a94f87cc/
+************
+************
+- Job title: Website Coder Needed
+- Description: Writing code for basic website, based on pixel-based design. HTML 5/ CSS/ Javascript skills required.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 200
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01df09a0467b8ab399/
+************
+************
+- Job title: Website needed for new Fly Fishing company
+- Description: I am in the market for someone to build and maintain a website for my new Fly Fishing Rod company. I have a full time job, but the plan is to operate this as a small business both in retail and wholesale. The company will be based in Canada, but would like to have an internet presence all over the world. I have some ideas on what I want the site to look like, but I neither have the skills or the time to learn how to build my own site.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 month, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~0155c357732f57c03b/
+************
+************
+- Job title: Need to fix an HTML5 one-page website
+- Description: Hello, We have built a simple static HTML5 one-page website. We used a free TemplateMonster template, updated the images and customised the content. However, I could get the contact form working, although I tested the script with several SMTP servers. There are some issues with mobile version that need to be fixed. So, I'm looking for someone, who can make some final fixes and test the website in different mobile and desktop browsers. I'm sure it should be an easy job for a person with some basic knowledge and experience in HTML5, CSS, Java Script and general web development. Best, Corypheus Team
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 30
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~010ce9ff7b5a86b845/
+************
+************
+- Job title: Selenium Python - Test Automation
+- Description: I am looking for someone who could work on a long term contract for automation tasks using Selenium WebDriver. For the time being, its a sample work. Those who have great relevant experience would likely to be interviewed. Thanks!
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 80
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01aeb772cf392c4f78/
+************
+************
+- Job title: C# developer for QBO, Netsuite API access
+- Description: Develop Windows class module in C# to access Cloud-based accounting packages, e.g., QBO and Netsuite. Methods will login to target system, extract data, convert data to common format, and save results to SQL Server and/or data table . Error handling and restart capabilities must be included. Employer will provide login credentials, sample method signatures, and target data structures to programmer. Programmer must be familiar with features and limitations of selected accounting package API's. First step of project will be to review employer requirements and modify if necessary based on API restrictions. Goal is to present single interface to calling program regardless of package. Programmer must have successfully completed API projects using either QBO or Netsuite. Preference will be given to candidate who has worked in both environments.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: 1 to 3 months, 10-30 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01583122587ff6b469/
+************
+************
+- Job title: Create an Expression/Formula Builder for Excel with VBA
+- Description: I have a workbook that is used to record values for performance metrics on a monthly basis. It contains two sheets: 1. List of KPIs – used to set attributes for each Key Performance Indicator (KPI) 2. Inputs – used to capture values for each KPI on a monthly basis Some of the KPIs are, however, calculated using the values from other KPIs I need functionality that allows the user to build or edit an expression/calculation for a KPI and to convert this expression into an Excel formula on the Inputs sheet The functionality/flow required is: - If the user labels a KPI as calculated, - An add/edit button/link should become active - A user form should pop up allowing the user to build the desired expression (concept included in attached file) - This expression should then be added to column in the List of KPIs sheet, - And used to build an Excel formula on the Input Sheet Nuances to cater for: - KPIs can be added to the Input Sheet, and not only at the bottom – the rows...
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, 10-30 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~011f4ce878e51e1eeb/
+************
+************
+- Job title: Java Developer: HTML and Text Email Parser Development
+- Description: This project involves developing standalone Java-based text parsers. These parsers will parse HTML and text-based email receipts. This project is well-defined and sample input will be provided for each email format needing parsed. The developer is responsible for implementing the necessary business logic in order to parse specific fields from the email text; as well as implementing the JUnit test to validate the data is parsed correctly. Key Skills: Java 7+ String manipulation skills Strong CSS selectors Strong RegEx knowledge HTML knowledge
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: 1 to 3 months, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01d0c2561b4afa27fe/
+************
+************
+- Job title: WebRTC Camera capture frontend
+- Description: We need a frontend, which is able to capture a video stream directly via browser and html5 without an additional plugin. This video data should be displayed in the browser and send to a server (define required interface). The server receives and processes the data. The processed image data is send back to the client (define required interface) and should be displayed in the browser. Furthermore we need to log and visualize the following performance cues: latency, browser load, fps rate (both streams). It should be possible to choose different camera resolutions and compression methods.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 200
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01b38863074c155f41/
+************
+************
+- Job title: Javascript front End Dev wanted for WebRTC project
+- Description: I am looking for senior javascript dev to help 40 hours pew week for 6 months on building an MVP - I will be on London time - and it would be great if we can work together - this is a home based project
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: 3 to 6 months, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01a08ddc67875d36b0/
+************
+************
+- Job title: FORMS VIA EMAIL CONVERT TO VIA SERVER WITH ADMIN & DATABASE
+- Description: We have numerous forms which are in php with attachment and it comes via email. We want that changed so all data on forms is stored into a database and attachments are uploaded directly on server. The actual form fields are ready and a few of the fields require your input and expertise. All form modifications, changes/edits, database creations, and coding will be done by you. We also need to be able to send mass emails to all who fill in the forms. We need to be able to send to a single user, a database or all users either an email or mass newsletter. We want to be able to download database from server to desktop. The created email lists must be downloadable but any new list we upload will be created uploaded under new name and will not have any influence on the databases created on server. The database email list uploaded on server as new will only be for mass email communication only.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 125
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01db8ca4eaad129fbc/
+************
+************
+- Job title: LOOKING FOR ECHO DEVELOPER LIVING IN THE UNITED STATES
+- Description: DETAILS DURING THE INTERVIEW: MUST LIVE IN THE US AND HAVE: STRONG JAVA SKILL 4+ YEARS STRONG UNDERSTANDING OF JSON AMAZON DEVELOPMENT TOOLS +2 YEARS
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: 3 to 6 months, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01ebd833cf582f2d82/
+************
+************
+- Job title: Scala/Java developer with good Spring knowledge
+- Description: You'll be a part of early days in a startup with high quality code and clear requirements. You will be able to learn fancy technologies under production sauce. Required: - Be fluent in English or Russian, without it we interrupt the interview - Good knowledge of Java, some knowledge of Scala - Understanding Futures concepts and async io operations - Have production Spring experience - Have experience with no-sql - Know git well Responsibilities: - Participate in daily calls, be available in Slack - Write good code - Write good unit tests - Be swift in making things done - Take initiative when required
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: 3 to 6 months, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~0122a06b45748cf242/
+************
+************
+- Job title: Javascript / PHP / CSS Expert Needed.
+- Description: I need something made for a few pages of my website that if a visitor viewed XYZ site then redirect to ABC site. Etc... Thank you! Bob
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 20
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~015cc1528bda02e9f0/
+************
+************
+- Job title: Googlebot cannot access CSS and JS files
+- Description: Google systems have recently detected an issue with our homepage that affects how well our algorithms render and index our content. Specifically, Googlebot cannot access our JavaScript and/or CSS files because of restrictions in our robots.txt file. This is basically message received from Google. We are not able to find any problem. Looking for somebody with experience for those exact problems. Once again, looking for somebody who is familiar with this type of work. Payment will be released once Google start crawl our web site again.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 100
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01b5025830934f6354/
+************
+************
+- Job title: CommonCrawl Extractor
+- Description: Requirements You will be given a list of URL prefixes We require a crawler to download and extract all pages at the June 2015 (or configurable) CommonCrawl data to extract any stored URLs containing the prefixed URLs We are looking to get as complete a scrape / record as possible for a given website. Saving output A special class has been provided for page content, so apart from populating these items, there is no need to write any special code to save output items. A more in depth job description will be provided to candidates we wish to interview. Note: This is position is Python Data extraction from specialised text formats (in this case, WARC files) Boto3 / AWS S3
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 150
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~0139ada539e00df604/
+************
+************
+- Job title: Searching for an individual that is knowledgable in Jquery and javascript installation
+- Description: Hi. I'm working on my website in Squarespace and I can't seem to get this j query plug-in to work. All of the code is correct, I just need someone who can upload it correctly so that it is functional. Are you capable? P.S. I am having trouble figuring out where to upload my .js file so they it can read.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 50
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~0150a3318f4a4e340f/
+************
+************
+- Job title: Seeking a program to take PL/SQL code and return list of used Tables/Views
+- Description: I am having a recurring challenge of knowing what tables are used in large bodies of PL/SQL code. I need a program which can take at least 20,000 lines of PL/SQL code and return a list of tables and views used in the SQL statements. The input could be a SAAS where I copy and paste the code and it returns the list of tables. Alternatively, it could be a java, c#, python, etc library which performs the same task. In the end, I am going to develop documentation, so analysts know which PL/SQL procedures use which tables. If the freelancer can provide a script which can also identify inserts, updates and deletes, that would be ideal but not a requirement. I know this challenge could be addressed with Regular Expressions, however I don't want this to be a coding job. I want to used previously developed code. NOTE: While I will look at programs designed for none Oracle PL/SQL, the program needs to be to parse PL/SQL code and ignore commented out code.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 100
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~019928e4aec0755389/
+************
+************
+- Job title: API developer required for recording data
+- Description: Need a supergenius to write an API that takes data feeds (which contain sms & mms) from a cellular VAS provider, stores it into a spreadsheet with time-stamps and broadcasts these messages at the scheduled date/time to a Butler XT2 (lighting system controller) and Facebook. The entire process needs to be automated through one or more (integrated) API's - if needed. Platforms that need to be connected: 1 - A Norwegian based cellular VAS provider who will give us data feeds in Spreadsheet and/or ZIP file format (more information will be provided) 2 - A Butler XT2 controller (http://www.ecue.com/products/engines/butler-xt2.html) 3 - Facebook API The API(s) must be able to send messages to the Butler XT2 controller and Facebook Timeline at the schedule date/time. Please see attached diagram of what needs to be done. Thank you.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 month, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~012ce5a84bae8a759a/
+************
+************
+- Job title: Video interface
+- Description: We are looking for a contractor with excellent understanding in video manipulation both server side and at the frontend using the Yii framework We require our present interface to be updated to make it simpler and faster. Our present interface only uploads videos of 13MB, freezes and is not very intuitive. The successful candidate will be required to make any modifications to the server scripts to allow video uploads of up to 800MB. The frontend video player will require a progress bar while the video is uploading and then another progress bar while the ffmpeg decoder converts the video to YouTube format. Once conversion is completed the original file is to be deleted and the converted file to be saved in the users video folder. The uploaded user video may be of many formats, hence the final converted file needs to be in a YouTube format that is small and of the highest video quality possible for a given file size. Hence it is important that the successful candidate / company is able...
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 250
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~010824cb15435d9977/
+************
+************
+- Job title: Magento Speed/Performance enhancement
+- Description: We require an expert(s) to review our website on code level, database and server configuration level and guide us on why the website is slow and how we can maintain great speeds. Looking for a UK company
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 1,000
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~017f09fc555662345d/
+************
+************
+- Job title: PHP, Javascript, Mysql, Simple invoicing script in finnish as a webservice
+- Description: Need a simple invoicing script as a webservice for a small carpenter company. Similar to: https://invoice-generator.com/ or http://invoiceto.me/ http://create.onlineinvoices.com/ but in finnish language. I can provide the finnish text. And also saving customers and articles and company information so the client don't have to write these again for every new invoice. The client do the billing in excel today. Expecting a simple one. Very easy to use. Functions needed: 1. Company database, Customer database and Article database maintenance. 2. Upload logo to company database 3. Create Invoice 4. Print Invoice I need something done within 10 - 14 days. Thank you.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 250
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01746323fad1a41ebb/
+************
+************
+- Job title: Trigger Word macro via browser script
+- Description: Provide JavaScript code to trigger a Word macro from a PHP/Browser-based environment. If this is more than just a few lines of code, then please let me know the entity of the job according to your assessment. Let me specify more: This is not about remote control. An instance of Word can be assumed as running when the operation takes place. VBS/ActiveX is not an accepted technology.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 50
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01681151b2666aedb8/
+************
+************
+- Job title: EBook Store
+- Description: I want an eBook Store similar to kobobooks.com I will be using Magento which had already been installed 1.Programmer/developer will need to write scripts to allow the site/database to programmatically download large text files via FTP and make automatic web services calls. 2. Will need a database that can parse the fixed length data feed. 3. Will need to be able to store customers account information and purchase history. 4. The system will have to be programmed to compare a customers address country to allowable territories in the catalog in order to prevent sales from unauthorized territories.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 300
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~010ac0e95ab93c1ea5/
+************
+************
+- Job title: PROGRAMMING FOR SHIPPING CALCULATOR TO SUIT EBAY AUSTRALIA
+- Description: NEED TO DEVELOP A SCRIPT FOR A SHIPPING CALCULATOR TO SUIT EBAY AUSTRALIA. API KEY AND LINKS FROM COURIER COMPANIES WILL BE PROVIDED.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 100
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~010a5b5d012d51bbc5/
+************
+************
+- Job title: Natural language processing Api
+- Description: looking for some experts to write a api using Stanford npl for a list of around 50+ sentences... Script should be more customizable and we should give inout and the parser should parse and give out
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 500
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01cc576e75b2b8e888/
+************
+************
+- Job title: Intelligent Full-Time Programmer [for LAMP, python, angular etc.]
+- Description: Hi, We need a full-time programmer, preferably near or in Chandigarh, India, to work with our team on some startup projects. The candidate should have an understanding of - python, php, ruby - unix servers - good programming practices - html/css/javascript - mathematics and algorithms - agile team methods We are looking for someone who can work hard, learn fast, and tackle different problems. The candidate should be fluent in English, since we speak with our team over skype.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: More than 6 months, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~0185cd319e2727b516/
+************
+************
+- Job title: Display database images and data with Ajax on Squarespace site
+- Description: We are on the cutting edge of making 3d data available to the public. The language is Ajax or another client side language. We need to query an existing SQL database and display the contents in our website hosted on Squarespace. The contents of the database are .png images and associated name, description and other text. the code should support future data tags and the ability to sort. Project: code up an html page that is in Squarespace and that uses ajax (or another language) calls to a database running php to get 3 items (png, name and description) per frame with up to 3 or 4 frames horizontal on a page and 4 or 5 vertical (established in a local config file) with a MORE button below (PREFERED: or automatically load) to load more underneath the existing frames if there are more objects in db Goal: query the database and display content. As user scrolls, display more content. Allow user to select number of items to display. Allow click-through to another page...
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01d8f83ee4996a5fe0/
+************
+************
+- Job title: Need help understanding java NETSUITE webservices (need SME)
+- Description: Looking for Netsuite java experts. This code MUST be familiar to you. Meaning, you have experience using java to extract data for a netsuite customer / client. import com.netsuite.webservices.platform.common_20XX.ItemSearchBasic; l_CustomFieldList = p_objRecord.getCustomFieldList(); if (l_CustomFieldList != null) { l_CustomFieldRef = l_CustomFieldList.getCustomField(); if (l_CustomFieldRef != null) { for (int j = 0; j < l_CustomFieldRef.length; j++) { if (l_CustomFieldRef[j] instanceof StringCustomFieldRef) { If you are still reading, you might know that Netsuite documentation for code like this is not good. I have been able to do almost everything my 6 year client needs, but since I only modify java / netsuite webservices code a few times a year I am not able to be an expert. I have a degree in computer science and 15 years of experience, but I am only a experienced beginner level java programmer. Eventually I always get the netsuite code to do what I want,...
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: 1 to 3 months, 10-30 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~011bb6d070a2d913f2/
+************
+************
+- Job title: Generate reports via import files against customer database values
+- Description: -Set up customer database. Customer database should have fields for name, address, email, account number, discount value by unit. Customer database should have a field for when the discount should be be paid out. -Upload excel files with customer account numbers and have the system sort the data by account number. The excel file will have the same account number as the customer database -Auto check excel uploads to ensure no duplicate data by date. Also advise user if current upload is missing dates. For example if the latest upload was from Jul 20 to Jul 26 and the new upload is from Jul 28 to Aug 2 the system should advise dates missing and have an option to proceed anyway. The system should log the missing dates and be able to generate reports advising of missing dates. -Have a utility that compares customer purchases by the following frequencies: daily, weekly, bi-weekly and monthly. I want to be able to set up a "customer variance" value in the customer database and...
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 5
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~010e04b4a09c144710/
+************
+************
+- Job title: Website Programming
+- Description: We are looking for an experienced programmer who can program our website to do complicated tasks. We would like someone who understands java, visual basic and c++.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01965068633ea63095/
+************
+************
+- Job title: Amazon Seller Central Inventory Upload Script Needed
+- Description: Skills - Must know Java Script, Perl, PHP & MYSQL What is needed - We require an expert to review and re-write our current inventory upload file of 78,000+ line items to all reflect product category listing of "Scientific & Industrial Products or goods". Must upload data with AMAZON or SOAP XML feed that UPLOAD nightly.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, 10-30 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~0159c75f0edc2ceaca/
+************
+************
+- Job title: Java Server Side Developer - Upwork
+- Description: Upwork is hiring! We are looking for experienced Java EE developers that, while working remotely, will be tightly integrated into our development team. The work will consist of building new high-performance services and features for www.upwork.com. This is an exciting opportunity to get a platform you actively use to the next level of reliability, scalability, and functionality! We are looking for a long term engagement. The selected developers will be working full time, 40 hours/week, on exciting new development. Candidates must demonstrate expertise in: - Java 8 - Web services and REST - Distributed Systems - Jetty, JPA, Jersey, IoC frameworks (Guice preferred) - SQL. Experience with Postgres is a plus - Git Candidates must also be able to: - Work independently and with minimal supervision - Communicate frequently and effectively in English - Deliver elegant, high-quality, and well tested code Once hired, the developer must use the Upwork Tracker to track hours....
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: More than 6 months, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~011c34d4971d93bdfa/
+************
+************
+- Job title: Cantemo Portal
+- Description: Cantemo portal is built as an interface on top of Vidispine. http://www.vidispine.com/ I would like a replica of the Cantemo portal basics built onto of the API of Vidispine. http://www.cantemo.com/about.html I will break into two milestones. But you must replicate the functionality.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 month, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01d28fc7c3491019fd/
+************
+************
+- Job title: Easy little project
+- Description: Hi all! I have more than 300 MS Word files in a folder, each one containing (among other info) a number which I have to search for in a website database. The code has to open the first doc file, locate and copy the number, go to the website and search for it, pause (then I can think and write on the doc file what the website database returned), save and close the doc file, and loop through the other files in the same folder, one at a time. Here is the step by step: 1) open the first file in "\\CORA\Users\claudia\Dropbox\TRABALHO\COOPERFORTE\Fichas". CORA is another PC, linked with mine in a home network. 2) locate the number, which is at the beginning of the doc file but never in the same exact line of it. Its pattern is like this: 0004684-84.2010.8.19.0010 (7 characters, "-" , 2 characters, ".", 4 characters, ".8.19." - which they all have and I don't use -, then 4 characters). This number is copied to be searched later, and in fact I need two parts of it: the part before the ".8.19."...
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 50
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01532c377e7516cc06/
+************
+************
+- Job title: MBA Project Manager
+- Description: We are looking for a business-savvy project manager (MBA and/or PMP preferred) to help us manage our initiatives as they become more complex. This person should be able to coordinate, schedule, and plan projects across functions, including: • Web development teams • Graphic Designers • Digital marketing agencies • Content producers This person should have the following skills: • Advanced proficiency at Microsoft Office Suite (MS Project a plus) • Excellent cross-cultural communicator with the ability to communicate clearly in English, both in writing and verbally • Excellent planning capabilities. This person should be able to see the big picture and coordinate across geographies and functions. • Good at data research and visualization • The ability to work with managers to communicate business strategy into operational excellence • Good experience working on business plans as part of a team • Can manage complexity and change in a calm, professional manner • The ability...
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 month, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01c3108f8901066992/
+************
+************
+- Job title: NEED HELP FileMaker Pro 14 fixing and tweaking a custom database I personally designed.
+- Description: I own/run a DJ company that is attempting to innovate new ways to incorporate technology into this industry and I want a solution that can easily "book events", while organizing the various data collected from those events. I consider myself "advanced" in regards to technology/computer fluency, and I began designing the solution myself, by combining & editing the "Starter Solutions" provided by FileMaker Pro. The solutions I have been focusing on are the solutions for "Event Management", & "Invoices". I am just running into a little bit of a wall "perfecting" the functionality with some of the commands, scripts, and script triggers. The type of job I would need to be completed, I would assume is a very minimal task (mostly fixing or debugging the codes and scripts that are already in place), that wouldn't take a professional more than a couple of hours (1-2 days MAX).
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 200
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~019d6a52bd29a3bc74/
+************
+************
+- Job title: FACEBOOK AND TWITTER SOFTWARE DEVELOPER
+- Description: “I’m looking for software developers that will be able to assist me in designing customised pieces of software for social media platforms (mainly twitter and Facebook) The candidate must have excellent programming skills with previous experience working with Facebooks and Twitter API and developing software for this platform, candidate must also be able to speak good english, follow instructions, work well with others and use their own initiative and ideas to assist with the completion of the software.”
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 500
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01bfddd9601a9e1d57/
+************
+************
+- Job title: Warrants Database Program
+- Description: We need to stay around $250.00 for the total project. Whether its by the hour or a fixed rate. Needs to total within $250.00. We have our own server and can NAT ports outside to be outside accessible. A Web Program would be best with user accounts and permissions. We are a very small sheriffs department with limited funding. What would you charge us to build a little program like this? We are needing a program to: 1. Enter a person into a data base by name,(first name, middle initial,, last name) address, date of birth, height, weight, gender (Male. Female, Other), race, eye color, hair color, long medium, short, bald, mustache ,goatee ,beard, scars ,marks or tattoos? 2. Attach a photograph of the person, enter a warrant number, statue number, charge, Type of warrant (fugitive, felony, misdemeanor, body attachments(for child support) issued date of warrant, date warrant served, court date, court name and address, telephone number, officer serving warrant...
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 250
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~011873c9eb0fb6cb80/
+************
+************
+- Job title: Create Stripe script for our 3 webpages
+- Description: Hello, We have three webpages that need a Stripe script to charge our visitors. All three pages are similar and only have one one input field of difference. Therefore, we estimate that it shouldn't take too long to implement the script on all three pages once the script is figured out for one page. The webpages currently have javascript to validate the forms. We would like for you to be able to work with our existing code and provide an efficient solution. If we enjoy your work, this can develop into a long term business relationship. Please provide examples of other work you have done with the Stripe payment gateway.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, 10-30 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~01a7420c321d03326c/
+************
+************
+- Job title: PHP and MySql Database Creation
+- Description: The project is already about 3/4 done, I just need someone to review the code and tell me what it would take to finish it up. Please contact me for further details.
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: More than 6 months, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~0137e245a1f12b9f29/
+************
+************
+- Job title: Updates To HTML/CSS Website
+- Description: The website we need changed is www.stormflowerslondon.com. There are several changes which need to be made as the business has recently changed owner. Full details will be provided on acceptance of the job. Homepage Add and remove text Business Portfolio Page Remove text Remove Wedding Portfolio Page Christmas Page Replace text Add a link to a new page for requesting a Christmas Information Pack Remove 5 Pictures from the gallery Remove zoom feature icon and text Contact Page Change the contact name Change the Office number All Pages Change Copyright 2011 to 2015 Add icons and links to Twitter and Facebook at the bottom left of each page Add a new page (Request Christmas Information Pack) (NEW PAGE) Left Side an image of a christmas tree Right side “Enter your information below to request a Christmas Information Pack" Insert contact form (foxy form or other if you know of a better option) Add more photos to the galleries.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 300
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~010f3f22842319057a/
+************
+************
+- Job title: FileMaker database to Website
+- Description: Hi, I am looking for at solution regarding FileMaker database to a Website. Best regards, Jens Trier
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: Less than 1 week, Less than 10 hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~016ae9451850e04133/
+************
+************
+- Job title: .NET developer with 5 yrs of experience
+- Description: HI, We are looking for people with 5 yrs experience on the below mentioned areas. AS .NET, SQL Server 2008 % 2012, J Query, Java Script, HTML 5, .Microsoft Reports. Interested candidates, share your profile with us asap.
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 200
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01e6cc7b09516e5d50/
+************
+************
+- Job title: C# .NET WinForms Developer (Location: Onsite, Mumbai)
+- Description: Location: Onsite, Mumbai Timing: Fulltime (9.30-6.30) Type: Contract We are looking for C# .NET WinForms Developer who will work onsite in Mumbai, suitable to the following JD: Should have strong experience with C# .NET WinForms Discuss requirements with business users, and perform demos of completed iterations Expertise in object oriented design and multi-threaded programming.(OOPS) Good communication skills, both verbal and written Excellent general programming, software design and problem solving skills **Suitable candidate please send your updated resume and contact information at resume@volgainfotech.com**
+- Pay Type: Hourly
+- Budget: Unknown
+- Duration: Est. Time: 3 to 6 months, 30+ hrs/week
+- URL: https://www.upwork.com/o/jobs/job/_~0102af9c4d77c7bfef/
+************
+************
+- Job title: Work my Shopify store , home page
+- Description: After this test my Shopify store should LOOK and FUNCTIONING in the best way without any problems. Change product images to diff images and make sure all connections work properly Also, social media icons should be added to the bottom of every page of my store AND connected to my FB and Pinterest accounts Make sure my Shopify store active and people able to see it and buy my products without any problems
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 20
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~016e72120c09642886/
+************
+************
+- Job title: Java and Web Developer
+- Description: ScanTask is a young company that has built and continues to develop AgriTask, a geographical SaaS and mobile solution for agriculture. AgriTask provides real time agronomic decision support that helps growers around the globe to increase profitability and produce higher quality crops. ScanTask benefits from a highly experienced software team - most developers are 10-15 years in the industry. We have a very good experience with our few chosen oversea developers and consider them an integral part of our growing company. The successful candidate (a highly experienced software developer) will join a strong software development team, and will share responsibilities for analysis, design, testing and implementation of new system components. The job suits a highly motivated person interested in developing a stable career. Work time is flexible, with regular online presence for conference calls and online meetings. Requirements * Ability to work standalone and effectively communicate...
+- Pay Type: Fixed-Price
+- Budget: Est. Budget: $ 2,000
+- Duration: Unknown
+- URL: https://www.upwork.com/o/jobs/job/_~01ba777b4447c1acc3/
+************
